@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFE600&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ariosvaldo;I+study+analysis+and+systems+development+at+IFPB;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AryDevv&bg_color=000000&color=FFE600&line=FFE600&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
-
 <div align="center">  
 <a href="https://www.linkedin.com/in/ariosvaldo-figueiredo?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div> 
